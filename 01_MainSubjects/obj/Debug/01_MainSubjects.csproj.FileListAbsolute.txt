@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\_01_MainSubjects.exe.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\_01_MainSubjects.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\_01_MainSubjects.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\_01_MainSubjects.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\_01_MainSubjects.pdb

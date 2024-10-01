@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
