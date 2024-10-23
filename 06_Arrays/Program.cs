@@ -210,8 +210,6 @@ namespace _06_Arrays
 
             #endregion
 
-
-
             #endregion
 
             Console.Read();
