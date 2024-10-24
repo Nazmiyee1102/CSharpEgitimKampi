@@ -2,7 +2,7 @@
 
 Bu proje Murat Yücedağ' ın Youtube'da ücretsiz yayınladığı "C# Eğitim Kampı" eğitimi ile beraber yürütülmektedir.
 
-📍 101 seviyesinde işlediğimiz konular :
+📍 İşlediğimiz konular :
 
 📍 İlk olarak temel olarak üç konuya değindik. Bunlar :
 
