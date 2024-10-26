@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
